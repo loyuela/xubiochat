@@ -34,7 +34,7 @@
                       hi("poptin_client_id", $i.id, 365));
               },
               o = function () {
-                var t = $i.id;
+                var t = $i.id;  
                 return (
                   null == $i.id &&
                     ("undefined" != typeof Storage &&
